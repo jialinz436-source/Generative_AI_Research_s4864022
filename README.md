@@ -1,2 +1,3 @@
-# Generative_AI_Research_s4864022
-REIT6811_tutorial6
+# AI_Research
+
+put some stuff - all data for the project
