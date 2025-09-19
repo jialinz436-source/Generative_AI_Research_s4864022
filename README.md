@@ -11,7 +11,7 @@ Generative_AI_Research_s4864022
     |___Data
         |___CsvData
             |___SurveyQuestions.docx
-            |___Row_Data.csv
+            |___Raw_Data.csv
             |___More_Raw_Data.csv
             |___Cleaned_Data.csv  
         |___ImageData
@@ -27,3 +27,6 @@ Generative_AI_Research_s4864022
         |___ComputersAndEducationOpen.pdf
         |___AI_BoonOrBane.pdf
     |___README.md  
+
+
+   For this project, a script was written in python to clean the data. Based on the data, three people were interviewed and a report was written accordingly.
